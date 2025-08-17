@@ -13,7 +13,7 @@ Email: huiju.lee2@gmail.com
 
 ## 핵심 역량
 
-### 1.  Python(PyTorch/Tenshorflow)활동 연구, 개발, 운영역량
+### 1.  Python(PyTorch/Tensorflow)활동 연구, 개발, 운영역량
 * GPS 궤적 데이터 분석 및 공간정보 모델링 경험 보유 (대학원, 공간정보연구실)
 * Multi-Objective Reinforcement Learning 모델 설계 및 개발 (대학원, 산업공학연구실)
 * 딥러닝을 활용한 범죄불안감 측정 모델 개발 (한국연구재단 과제)
