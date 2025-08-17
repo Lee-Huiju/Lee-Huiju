@@ -114,6 +114,7 @@ Email: huiju.lee2@gmail.com
 * 사용 기술: 
     * PyTorch, Python, Scikit-learn, Multiple Regression
 
+----
 
 ### 석사 과정 연구 - 공간정보연구실, Ewha Womans University
 2023.03 - 2024.02
