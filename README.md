@@ -160,10 +160,10 @@ Email: huiju.lee2@gmail.com
 ## 학력
 * __이화여자대학교 대학원__, 빅데이터분석학, 석사, (2023.03 ~ 2025.02)
     * __석사 학위 논문__
-    * Multi-Objective Reinforcement learning 활용한 관광경로 추천시스템
+     * Multi-Objective Reinforcement learning 활용한 관광경로 추천시스템
     * __저널 등재 논문__
-    * Exploring lifestyle patterns from GPS trajectory data: Embedding spatio-temporal context information via Geohash and POI, Spatial Information Research, First Author
-    * 스마트폰 GPS궤적의 체류 지점 도출 및 맥락정보 생성방법, 한국지도학회지, 1저자
+     * Exploring lifestyle patterns from GPS trajectory data: Embedding spatio-temporal context information via Geohash and POI, Spatial Information Research, First Author
+     * 스마트폰 GPS궤적의 체류 지점 도출 및 맥락정보 생성방법, 한국지도학회지, 1저자
 * __Edinburgh Napier University__, Hospitality and Tourism Management, Bachelor Degree, (2020.01 ~ 2021.11)
 * __동양미래대학교__, 관광컨벤션학과, 전문학사, (2015.03 ~ 2018.02)
 ## 수상
