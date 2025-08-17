@@ -77,7 +77,6 @@ Email: huiju.lee2@gmail.com
 ---
 
 
-
 ### 석사 과정 연구 - Data science Lab, Ewha Womans University
 2024.02 ~ 2025.02 
 
@@ -88,9 +87,10 @@ Email: huiju.lee2@gmail.com
     * 다중 보상 함수를 통한 상충하는 목표간 균형점 도출
     * 파레토최적해 도출을 통한 개인화된 관광서비스 개발 연구
 * 주요 역할: 
-    * ,,
-    * ,,
-    * ,,
+    * 데이터 수집 (API, Web crawling)
+    * EDA
+    * 강화학습 모델링(Pareto Convolution Network, Deep Q-Network)
+    * 모델해석
 * 사용 기술: 
     * Reinforcement Learning, QGIS, KAKAO API
 * [`논문`](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12101232)
@@ -98,17 +98,21 @@ Email: huiju.lee2@gmail.com
 #### 2024 콘텐츠 가치평가 경제성 평가모형 개선 연구/ 한국콘텐츠진흥원
 * 기간/인원: 2024.05 ~ 2024.12 / 3명
 * 개요: 
-    * 딥러닝 모델 (Vision) 설계 최고 성능 달성.
-    * 객체 인식 등에 활용하는 사전학습인 직소퍼즐 문제.
-    * 3x3 퍼즐 정확도 83.3%에서 90.6%로 개선 최고 성능.
+    * 콘텐츠 투자 의사결정을 위한 AI 활용 경제성 평가 시스템 구축
+    * 영화 및 애니메이션 분야 관객수 및 수익 예측 모델 개발 연구
+    * 회귀분석 및 머신러닝 알고리즘 테스트를 통한 콘텐츠 수익 예측 최적 모델 구축
 * 주요 역할: 
-    * 분류 알고리즘에서 발생하는 문제점을 회귀 알고리즘으로 해결
-    * 딥러닝 모델 ViT (Vision Transformer) 아키텍처 수정
-    * 자기지도학습을 위한 데이터 처리 및 학습 전략 설계
-    * 관련 논문의 모델들을 PyTorch로 다시 구현
-    * 학습 내용과 학습 과정 시각화
+    * 데이터 수집 및 전처리:
+       * 한국콘텐츠진흥원 API 및 웹 크롤링을 통한 영화 관련 데이터 수집
+    * 머신러닝 모델 구현 및 최적화
+      * 회귀분석 및 머신러닝 알고리즘 성능 비교 분석
+      * SMOTE, ADASYN 기법을 통한 불균형 데이터 처리 및 다중공선성 해결
+      * GridSearch 및 Cross Validation을 활용한 하이퍼파라미터 최적화
+    * 실무 도구 개발
+      * Excel 기반 예측 도구 및 Dashboard 개발
+      * 모델 평가 지표 시각화 및 결과 리포팅
 * 사용 기술: 
-    * PyTorch, Python, 
+    * PyTorch, Python, Scikit-learn, Multiple Regression
 
 
 ### 석사 과정 연구 - 공간정보연구실, Ewha Womans University
@@ -140,10 +144,17 @@ Email: huiju.lee2@gmail.com
     * GPS 데이터 마이닝을 통한 개인별 목적지 예측 및 경로 추천 알고리즘 개발을 위한 사전연구
 
 * 주요 역할: 
-    * 기초
-    * 선행연구 
+    * 선행연구 조사 및 분석:
+      * 보행환경 기반 AI 평가 연구 참조 및 보행환경 안전성 연구 참조
+      * 국내 환경에 맞는 보행환경 평가 지표 제작 (안전성, 편리성, 쾌적성)
+    * 데이터셋 적합성 검증:
+      * CNN DeepLab 및 ADE20K 데이터셋을 활용한 객체 인식 성능 테스트
+      * Intersection over Union 성능지표를 통한 모델 검증
+    *  실험 설계 및 평가 지표 개발:
+      * 안전성/편리성/쾌적성 지수 4단계 등급화 체계 설계
+      * 실제 연구 적용 전 예비 실험을 통한 방법론 타당성 검증
 * 사용 기술:
-    * CNN, 
+    * Computer Vision, CNN, DeepLab, ADE20K
       
 ## 학력
 * __이화여자대학교 대학원__, 빅데이터분석학, 석사, (2023.03 ~ 2025.02)
@@ -154,7 +165,12 @@ Email: huiju.lee2@gmail.com
     * 스마트폰 GPS궤적의 체류 지점 도출 및 맥락정보 생성방법, 한국지도학회지, 1저자
 * __Edinburgh Napier University__, Hospitality and Tourism Management, Bachelor Degree, (2020.01 ~ 2021.11)
 * __동양미래대학교__, 관광컨벤션학과, 전문학사, (2015.03 ~ 2018.02)
-  
+## 수상
+* __우수논문상__, Exploring lifestyle patterns from GPS trajectory data: Embedding spatio-temporal context information via Geohash and POI, 대한정보학회
+* __우수논문상__, 스마트폰 GPS궤적의 체류 지점 도출 및 맥락정보 생성방법, 한국지도학회지
+* __올해의논문상__, 스마트폰 GPS궤적의 체류 지점 도출 및 맥락정보 생성방법, 한국지도학회지
+<br>
+
 ## 교육
 * __오라클자바교육학원 빅데이터 플랫폼 구축 & 머신러닝 시각화 분석__, 수료, (2022.05 ~ 2022.10)
 <br>
